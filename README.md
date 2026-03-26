@@ -1,2 +1,0 @@
-# comic-relief-quiz
-Quiz
